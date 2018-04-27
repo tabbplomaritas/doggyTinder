@@ -1,0 +1,41 @@
+@media screen and (min-width: 768px) {
+
+  li a {
+    font-size: 2rem;
+  }
+
+  #header_right {
+    font-size: 2rem;
+  }
+
+  .dogsNearYou {
+    margin: 2rem 0;
+    width: 55.5rem;
+    height: 55.5rem;
+ 
+  }
+
+}
+
+@media screen and (min-width: 1000px) {
+  .hidden {
+    display: block;
+  }
+
+  .dogsNearYou {
+    width: 100.5rem;
+    height: 116.5rem;
+  }
+
+  .infoBar {
+    height: 4rem;
+    font-size: 1.4rem;
+  }
+
+  .dog-thumb{
+    margin: 1rem;
+    width: 40%;
+  }
+
+
+}
