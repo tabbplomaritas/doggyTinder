@@ -46,8 +46,13 @@ header h1 {
 }
 
 a .fa-search {
+    height: 100%;
     font-size: 1.9rem;
-    margin-top: 5rem;
+}
+
+a .fa-search:hover {
+    background-color: #028ba0;
+    color: white;
 }
 
 #header_left span{
@@ -67,6 +72,12 @@ a .fa-search {
 #header_right a {
     padding: 0;
 }
+
+#header_right a:nth-of-type(3) {
+    margin-top: 5rem;
+}
+
+
 
 hr {
     color: #979797;

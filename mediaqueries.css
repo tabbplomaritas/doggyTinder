@@ -1,5 +1,10 @@
 @media screen and (min-width: 768px) {
 
+  a .fa-search {
+    font-size: 1.9rem;
+    margin-top: 2.5rem;
+}
+
   li a {
     font-size: 2rem;
   }
