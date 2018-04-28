@@ -1,12 +1,9 @@
 @media screen and (min-width: 768px) {
 
-  /* a .fa-search {
-    font-size: 1.9rem;
-} */
-
 #header_right a:nth-of-type(3) {
   margin-top: 2rem;
   font-size: 1.9rem;
+  margin-left: 12rem;
 }
 
   li a {
