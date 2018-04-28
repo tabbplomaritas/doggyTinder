@@ -21,6 +21,14 @@
  
   }
 
+  #viewMore {
+    width: 100%;
+    height: 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
 }
 
 @media screen and (min-width: 1000px) {
