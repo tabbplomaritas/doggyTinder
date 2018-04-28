@@ -14,6 +14,7 @@ a {
     font-weight: bold;
     transition: .3s all;
     padding: .5rem 1rem;
+    border-radius: 5px;
 }
 
 a:hover {
@@ -38,6 +39,11 @@ header {
     justify-content: space-between;
     height: 9rem;
     padding: 1rem;
+}
+
+#brand:hover {
+    background-color: white;
+    color: #028ba0;
 }
 
 header h1 {
@@ -74,7 +80,13 @@ a .fa-search:hover {
 }
 
 #header_right a:nth-of-type(3) {
-    margin-top: 5rem;
+    margin-top: 4.5rem;
+    border-radius: .5rem;
+    width: 2rem;
+    height: 2rem;
+    margin-left: 4rem;
+    text-align: ;
+    padding: .5rem;
 }
 
 
@@ -98,6 +110,7 @@ ul li {
     font-family: 'open-sans';
     font-size: 1.1rem;
     list-style: none;
+    border-radius: .5rem;
 }
 
 #hero {
